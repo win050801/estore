@@ -1,0 +1,6 @@
+[submodule "estoreclient-master"]
+	path = estoreclient-master
+	url = https://github.com/win050801/estoreclient-master
+[submodule "eStoreServer"]
+	path = eStoreServer
+	url = https://github.com/win050801/eStoreServer
